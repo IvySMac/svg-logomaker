@@ -1,0 +1,23 @@
+{
+  "name": "svg-logomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvySMac/svg-logomaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvySMac/svg-logomaker/issues"
+  },
+  "homepage": "https://github.com/IvySMac/svg-logomaker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
