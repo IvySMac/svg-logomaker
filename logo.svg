@@ -1,6 +1,6 @@
 
 <svg height="300" width="200">
-<polygon points="100,0 10,150 190,150" fill="blue"/>
-  <text font-size="45" font-family="Verdana" fill="red"x="50" y="110">SVG</text>
+<rect x="0" y="0" width="300" height="200" fill="green"/>
+  <text font-size="60" font-family="Times New Roman" fill="white"x="40" y="120">SVG</text>
 </svg>
 
