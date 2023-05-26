@@ -2,7 +2,21 @@
 
 ## Description 
 
+In this exercise, I'll be utilizing what I have learned in past assignments to create a generator that creates svg logos. 
+
 ## Usage
+
+To use this app, start by opening up your terminal and typing 'node index' 
+You will then be confronted with 4 prompts
+
+ - Type in your text, only three letters please!
+
+ - Choose the color of your text (either by name or by hex code)
+
+ - Choose which shape you want in the background of your text
+
+ - Choose the color of your shape (either by name or by hex code)
+
 
 ## User Story
 
@@ -30,3 +44,6 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+## Credits
+
+- w3schools for help on shape's dimensions 
