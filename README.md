@@ -17,6 +17,7 @@ You will then be confronted with 4 prompts
 
  - Choose the color of your shape (either by name or by hex code)
 
+To see this app in action, check out the video <a href="https://drive.google.com/file/d/1lBJCLX4ivTGIv4IYqv6MKI8Hn8dIzhnW/view">here</a>!
 
 ## User Story
 

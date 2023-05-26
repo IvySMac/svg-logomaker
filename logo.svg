@@ -1,6 +1,6 @@
 
 <svg height="300" width="200">
-<rect x="0" y="0" width="300" height="200" fill="green"/>
+<circle cx="100" cy="100" r="90" fill="green"/>
   <text font-size="60" font-family="Times New Roman" fill="white"x="40" y="120">SVG</text>
 </svg>
 
