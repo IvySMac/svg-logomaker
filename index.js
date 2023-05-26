@@ -5,8 +5,8 @@ const fs = require("fs");
 
 
 function askQuestions() {
-    inquirer.prompt(questions).then(({name, textColor}) => {
-        const logo=generateLogo(name, textColor);
+    inquirer.prompt(questions).then(({name, textColor,shapes, shapeColor}) => {
+        const logo=generateLogo(name, textColor, shapes, shapeColor);
         
         fs.writeFile("logo.svg",logo, (err) =>
             err? console.log(err) : console.log('Success!')
