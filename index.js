@@ -9,7 +9,7 @@ function askQuestions() {
         const logo=generateLogo(name, textColor, shapes, shapeColor);
         
         fs.writeFile("logo.svg",logo, (err) =>
-            err? console.log(err) : console.log('Success!')
+            err? console.log(err) : console.log('Generated logo.svg')
         );
     });
 }
