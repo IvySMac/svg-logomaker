@@ -2,7 +2,7 @@
 
 ## Description 
 
-In this exercise, I'll be utilizing what I have learned in past assignments to create a generator that creates svg logos. 
+In this exercise, I'll be utilizing what I have learned about Object Oriented Programming (OOP) in past assignments to create a generator that creates svg logos. 
 
 ## Usage
 
@@ -17,7 +17,7 @@ You will then be confronted with 4 prompts
 
  - Choose the color of your shape (either by name or by hex code)
 
-To see this app in action, check out the video <a href="https://drive.google.com/file/d/1lBJCLX4ivTGIv4IYqv6MKI8Hn8dIzhnW/view">here</a>!
+To see this app in action, check out the video <a href="https://drive.google.com/file/d/1wnMT9rAPqfJSkP4DDA1FurF67VUbHrmk/view">here</a>!
 
 ## User Story
 
