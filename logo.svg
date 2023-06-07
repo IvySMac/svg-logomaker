@@ -1,6 +1,3 @@
-
-<svg height="300" width="200">
-<circle cx="100" cy="100" r="90" fill="green"/>
-  <text font-size="60" font-family="Times New Roman" fill="white"x="40" y="120">SVG</text>
-</svg>
-
+<svg height="300" width="200"><circle cx="100" cy="100" r="90" fill="blue"/><text font-size="50" text-anchor="middle" fill="red" x="100" y="120">
+    SVG
+  </text></svg>
